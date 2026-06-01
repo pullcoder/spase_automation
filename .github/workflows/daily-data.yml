@@ -1,0 +1,93 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # 매일 UTC 00:00 (한국 오전 9시)
+  workflow_dispatch:       # 수동 실행 가능
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch NASA APOD + Groq AI 요약 생성
+        env:
+          NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          node -e "
+          const https = require('https');
+          const fs = require('fs');
+
+          function request(options, body) {
+            return new Promise((resolve, reject) => {
+              const req = https.request(options, res => {
+                let d = '';
+                res.on('data', c => d += c);
+                res.on('end', () => resolve({ status: res.statusCode, body: d }));
+              });
+              req.on('error', reject);
+              if (body) req.write(body);
+              req.end();
+            });
+          }
+
+          async function main() {
+            // 1. NASA APOD 가져오기
+            const nasaRes = await request({
+              hostname: 'api.nasa.gov',
+              path: '/planetary/apod?api_key=' + process.env.NASA_API_KEY,
+              method: 'GET'
+            });
+            const apod = JSON.parse(nasaRes.body);
+            console.log('APOD:', apod.title);
+
+            // 2. Groq으로 한국어 AI 요약 생성
+            let aiSummary = '';
+            try {
+              const prompt = 'NASA 오늘의 우주 사진 제목: ' + apod.title + '\n설명: ' + apod.explanation.substring(0, 500) + '\n\n위 내용을 한국어로 2-3문장으로 쉽게 요약해줘.';
+              const groqBody = JSON.stringify({
+                model: 'llama-3.1-8b-instant',
+                messages: [{ role: 'user', content: prompt }],
+                max_tokens: 200
+              });
+              const groqRes = await request({
+                hostname: 'api.groq.com',
+                path: '/openai/v1/chat/completions',
+                method: 'POST',
+                headers: {
+                  'Authorization': 'Bearer ' + process.env.GROQ_API_KEY,
+                  'Content-Type': 'application/json',
+                  'Content-Length': Buffer.byteLength(groqBody)
+                }
+              }, groqBody);
+              const groqJson = JSON.parse(groqRes.body);
+              aiSummary = groqJson.choices?.[0]?.message?.content ?? '';
+              console.log('AI 요약 생성 완료');
+            } catch (e) {
+              console.log('AI 요약 실패 (스킵):', e.message);
+            }
+
+            // 3. JSON 파일로 저장
+            fs.mkdirSync('public/data', { recursive: true });
+            fs.writeFileSync('public/data/daily.json', JSON.stringify({
+              updatedAt: new Date().toISOString(),
+              apod: { ...apod, ai_summary: aiSummary }
+            }, null, 2));
+            console.log('public/data/daily.json 저장 완료');
+          }
+
+          main().catch(e => { console.error(e); process.exit(1); });
+          "
+
+      - name: Commit & Push
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add public/data/daily.json
+          git diff --staged --quiet || git commit -m "chore: daily data update $(date -u '+%Y-%m-%d')"
+          git push
