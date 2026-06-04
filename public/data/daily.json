@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T03:57:20.448Z",
+  "updatedAt": "2026-06-04T03:52:29.624Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
-        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+        "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-        "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+        "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-        "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Grab what you can while you can: The new reality in the South China Sea",
+        "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "British couple lose Iran jail sentence appeal, family says",
-        "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Do you find yourself aimlessly scrolling? You're not alone",
-        "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Phone signal on trains not good enough most of the time, research says",
+        "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
