@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T03:52:29.624Z",
+  "updatedAt": "2026-06-05T03:37:08.067Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
-        "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-        "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Grab what you can while you can: The new reality in the South China Sea",
-        "url": "https://www.bbc.com/news/articles/cy823n3ln29o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+        "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mangrove forests are healing after decades of human destruction",
+        "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Phone signal on trains not good enough most of the time, research says",
-        "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The ancient trick making food waste useful and tasty",
+        "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
