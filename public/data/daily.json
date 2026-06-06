@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T03:37:08.067Z",
+  "updatedAt": "2026-06-06T02:58:03.801Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+        "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine strikes cargo ships and admits Romania drone blast",
+        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
-        "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+        "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-        "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fury in France after child murder suspect's criminal record released",
+        "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Mangrove forests are healing after decades of human destruction",
-        "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nearly 50 people die of thirst in Sahara desert after lorry breaks down",
+        "url": "https://www.bbc.com/news/articles/c62r2ldyejro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "The ancient trick making food waste useful and tasty",
-        "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump to meet AI leaders to discuss US investment in their companies",
+        "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
