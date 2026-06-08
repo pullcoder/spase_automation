@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T03:44:36.759Z",
+  "updatedAt": "2026-06-08T03:53:19.388Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,28 +10,28 @@
   "news": {
     "items": [
       {
-        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-        "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel strikes Beirut suburb days after US-brokered truce",
+        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-        "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky's close European allies set out five conditions for peace talks",
+        "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-        "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+        "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
-        "url": "https://www.bbc.com/news/articles/cly8lgn0x30o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+        "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
-        "url": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
+        "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
