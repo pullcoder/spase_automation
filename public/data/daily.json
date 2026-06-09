@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T03:53:19.388Z",
+  "updatedAt": "2026-06-09T02:56:58.970Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Israel strikes Beirut suburb days after US-brokered truce",
-        "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+        "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Zelensky's close European allies set out five conditions for peace talks",
-        "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-        "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-        "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-        "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 35 dead after major earthquake strikes southern Philippines",
+        "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "The gamers taking on the industry to stop it switching off games",
-        "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
