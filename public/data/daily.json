@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T02:56:58.970Z",
+  "updatedAt": "2026-06-10T03:35:00.021Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-        "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Watch: Trump tells BBC Netanyahu did not defy him",
-        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
+        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "World's largest chipmaker does not rule out price rises as costs increase",
+        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
-        "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "At least 35 dead after major earthquake strikes southern Philippines",
-        "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nasa names next astronauts for Artemis Moon programme",
+        "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Kalshi to make some users reveal job details to tackle insider trading",
+        "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
