@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T03:57:47.233Z",
+  "updatedAt": "2026-06-17T03:58:47.336Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Trump may release US-Iran deal before Friday, Vance says",
-        "url": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
-        "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+        "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Married at First Sight Australia allegations 'disturbing', says country's watchdog",
-        "url": "https://www.bbc.com/news/articles/c4gyp099vl7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Norwegian crown princess's son found guilty of two counts of rape",
-        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian artist and Putin critic shot dead in Poland",
+        "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
-        "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
+        "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "What is Helium-3 and could we get it from the moon?",
-        "url": "https://www.bbc.com/news/articles/ce8jmg2e4kro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Five big questions about the UK's under-16s social media ban",
+        "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
