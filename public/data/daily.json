@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T03:58:47.336Z",
+  "updatedAt": "2026-06-18T03:47:50.581Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What's in the US-Iran agreement?",
+        "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
-        "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran sends tankers loaded with oil past US military blockade",
+        "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+        "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian artist and Putin critic shot dead in Poland",
-        "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "German broadcaster removes TV intro after Elon Musk takes legal action",
-        "url": "https://www.bbc.com/news/articles/c0jyzp9z9deo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+        "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Five big questions about the UK's under-16s social media ban",
-        "url": "https://www.bbc.com/news/articles/c9824zvpz9po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+        "url": "https://www.bbc.com/news/articles/ceqdrw2yy3vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
