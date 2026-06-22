@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T04:03:51.623Z",
+  "updatedAt": "2026-06-22T04:04:26.799Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,18 +10,23 @@
   "news": {
     "items": [
       {
-        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "First round of US-Iran talks end with 'encouraging progress', mediators say",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
-        "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+        "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-        "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+        "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Half of France under red heat alert as alcohol banned at street music festival",
+        "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -30,13 +35,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-        "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Why an AI company cleaned my New York City apartment for free",
-        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
+        "url": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
