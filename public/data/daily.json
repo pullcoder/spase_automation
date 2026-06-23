@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T04:04:26.799Z",
+  "updatedAt": "2026-06-23T03:26:06.011Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "First round of US-Iran talks end with 'encouraging progress', mediators say",
-        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
+        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-        "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 13 killed and dozens injured after Qatar gas explosion",
+        "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
-        "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ransom note claims Nancy Guthrie died after abduction",
+        "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Half of France under red heat alert as alcohol banned at street music festival",
-        "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Myanmar army killed over 700 civilians in six months, UN says",
+        "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-        "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
+        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "It's not just about nudity warns actress - the complex reality of images and online abuse",
-        "url": "https://www.bbc.com/news/articles/c8621dqewxzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
+        "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
