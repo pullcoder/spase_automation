@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T03:26:06.011Z",
+  "updatedAt": "2026-06-24T03:27:52.503Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-        "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+        "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ransom note claims Nancy Guthrie died after abduction",
-        "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Myanmar army killed over 700 civilians in six months, UN says",
-        "url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Germany rail network briefly halted nationwide due to IT malfunction",
+        "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas",
-        "url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+        "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Millions of iCloud users could claim share of £3bn after Apple case given UK green light",
-        "url": "https://www.bbc.com/news/articles/c932d1r0p96o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Google's YouTube settles social media addiction case with teen",
+        "url": "https://www.bbc.co.uk/news/articles/cly81g7x73po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
