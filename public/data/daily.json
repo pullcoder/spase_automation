@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T03:25:02.111Z",
+  "updatedAt": "2026-06-26T03:33:23.303Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "France, UK and Spain see record temperatures as heatwave grips western Europe",
-        "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Air conditioning creates political divide after France records hottest day",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-        "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "People flee as building collapses on Caracas outskirts",
+        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
-        "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Biggest city in Crimea without power after Ukraine strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-        "url": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Teens who hacked TfL were known to police years before cyber-attack",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
