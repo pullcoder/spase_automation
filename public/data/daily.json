@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T03:33:23.303Z",
+  "updatedAt": "2026-06-27T02:55:57.435Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "People flee as building collapses on Caracas outskirts",
-        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Paris restricts alcohol consumption and sales as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Teens who hacked TfL were known to police years before cyber-attack",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
+        "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
