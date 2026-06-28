@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T02:55:57.435Z",
+  "updatedAt": "2026-06-28T03:38:49.732Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US conducts strikes on Iran after attack on cargo ship",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
-        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Mother dies saving daughter in Venezuela earthquakes",
-        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-        "url": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Europe's deadly heatwave breaks German record and halts public events",
-        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
+        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Why GTA 6 will launch without a disc - and what it means for gamers",
-        "url": "https://www.bbc.co.uk/news/articles/c6210nj8gpro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tech firms are blaming AI for mega device and console price rises",
+        "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
