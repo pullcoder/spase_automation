@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T03:38:49.732Z",
+  "updatedAt": "2026-06-29T03:43:14.989Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,8 +10,8 @@
   "news": {
     "items": [
       {
-        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -20,18 +20,18 @@
         "source": "BBC World"
       },
       {
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
         "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-        "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
