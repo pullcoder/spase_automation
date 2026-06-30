@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T03:43:14.989Z",
+  "updatedAt": "2026-06-30T03:31:39.034Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
-        "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+        "url": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Six people shot dead at centre for mothers and children in Germany",
+        "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+        "url": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+        "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Tech firms are blaming AI for mega device and console price rises",
-        "url": "https://www.bbc.co.uk/news/articles/cd95k584pzqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "WhatsApp to let people chat without swapping phone numbers",
+        "url": "https://www.bbc.co.uk/news/articles/c1dykk3135xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
