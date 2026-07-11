@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T02:52:22.402Z",
+  "updatedAt": "2026-07-11T02:30:10.996Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US and Iran trade attacks as Khamenei is buried",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-        "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meet the crypto billionaires building a world where money buys you a vote",
+        "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+        "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-        "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+        "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
-        "url": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meta pulls new AI image feature after days of backlash",
+        "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
