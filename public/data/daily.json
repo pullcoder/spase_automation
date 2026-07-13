@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T02:35:27.853Z",
+  "updatedAt": "2026-07-13T02:37:37.113Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
+        "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
         "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "China's second typhoon in a week makes landfall",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Anthony Zurcher: From Trump critic to ally, Lindsey Graham was a political survivor of the Maga era",
+        "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "At least two killed in Toronto street festival shooting",
-        "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+        "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-        "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Meta pulls new AI image feature after days of backlash",
-        "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "10 years of Pokémon Go and the millions still trying to catch 'em all",
+        "url": "https://www.bbc.co.uk/news/articles/cevlwk4nrm7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
