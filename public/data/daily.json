@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T02:21:36.730Z",
+  "updatedAt": "2026-07-15T02:15:47.357Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
-        "url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Colombian national killed by ICE agent during operation in Maine",
-        "url": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Seven Britons among those killed in Spain wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Is tracking your food purchases good for your health?",
-        "url": "https://www.bbc.co.uk/news/articles/cy8wlplellvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Midnight social media curfew proposed for older UK teens",
+        "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
