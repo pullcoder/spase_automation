@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T02:15:47.357Z",
+  "updatedAt": "2026-07-16T02:27:03.382Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
-        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "French MPs approve assisted dying law with strict rules after years of argument",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Argentina face action after waving Falklands banner",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Seven Britons among those killed in Spain wildfires",
-        "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+        "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "More people around the world now favour China over the US, Pew study suggests",
+        "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Midnight social media curfew proposed for older UK teens",
-        "url": "https://www.bbc.co.uk/news/articles/c982857nlrlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "SpaceX share price drops below stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
