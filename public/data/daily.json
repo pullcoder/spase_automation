@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T02:27:03.382Z",
+  "updatedAt": "2026-07-17T02:29:45.508Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "French MPs approve assisted dying law with strict rules after years of argument",
-        "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Blasts reported in Iran as US launches new wave of strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Argentina face action after waving Falklands banner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fifa 'assessing match reports' over Falklands banner",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "More people around the world now favour China over the US, Pew study suggests",
-        "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "SpaceX share price drops below stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump Media to sell early access to key social posts",
+        "url": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
