@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T02:30:37.181Z",
+  "updatedAt": "2026-07-22T02:29:22.332Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,8 +10,23 @@
   "news": {
     "items": [
       {
-        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
         "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+        "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -20,23 +35,8 @@
         "source": "BBC World"
       },
       {
-        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Tate brothers appear in US court for extradition proceedings",
-        "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Craft and keyboard: The trainees mastering tech and age-old skills",
-        "url": "https://www.bbc.co.uk/news/articles/cy8dg1kpj48o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Will AI help you do your job or replace you?",
+        "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
