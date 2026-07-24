@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T02:34:05.164Z",
+  "updatedAt": "2026-07-24T02:31:24.985Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US signs landmark nuclear deal with Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Oil prices hit $100 for the first time since May",
+        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Tankers make sharp U-turns after Houthi shipping threat",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-        "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Fire kills 10 members of same family in Peru, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Google burning through cash with spiralling AI costs",
-        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Google fined €890m by EU for favouring its own apps over rivals",
+        "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
