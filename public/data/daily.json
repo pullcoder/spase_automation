@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T02:31:24.985Z",
+  "updatedAt": "2026-07-25T02:29:30.536Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Firefighters struggle to contain Madrid wildfires, as more than 160,000 evacuated in France and Spain",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Oil prices hit $100 for the first time since May",
-        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+        "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+        "url": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "France evacuates 20,000 as wildfires spread in south-west",
-        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Google fined €890m by EU for favouring its own apps over rivals",
-        "url": "https://www.bbc.co.uk/news/articles/cevmenngkzpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
