@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T02:24:16.423Z",
+  "updatedAt": "2026-07-29T02:28:17.664Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
-        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: The moment quake hit Japan",
+        "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran and US trade strikes, shattering brief lull in fighting",
+        "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
-        "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
+        "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "China's new challenge as natural disasters strike - fake AI videos",
-        "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump administration bans new Chinese humanoid robots",
+        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "A Japanese town wrestles with identity after protests over its first mosque",
-        "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Is it time to stop using glue and labels on paper?",
-        "url": "https://www.bbc.co.uk/news/articles/c872nj1n4xyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+        "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
