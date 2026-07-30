@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T02:28:17.664Z",
+  "updatedAt": "2026-07-30T02:10:40.531Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Watch: The moment quake hit Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Iran and US trade strikes, shattering brief lull in fighting",
-        "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
+        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "How Mexican drug cartels have outsourced meth labs to Nigeria",
-        "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump administration bans new Chinese humanoid robots",
-        "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
+        "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Salman Rushdie attacker convicted of terror offences",
+        "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
-        "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump considering AI controls after OpenAI hacking incidents",
+        "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
