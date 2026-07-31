@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T02:10:40.531Z",
+  "updatedAt": "2026-07-31T02:38:46.182Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+        "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+        "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'It's our home, it's our forest': BBC speaks to locals fighting France wildfire",
-        "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Uefa to boycott World Cups if Fifa plans approved",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Salman Rushdie attacker convicted of terror offences",
-        "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Anthropic says Claude AI hacked three firms during cyber tests",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dl7w8y7po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump considering AI controls after OpenAI hacking incidents",
-        "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three things we learned about AI from Big Tech earnings",
+        "url": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
