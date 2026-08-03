@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T02:36:06.976Z",
+  "updatedAt": "2026-08-03T02:37:42.931Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,28 +10,28 @@
   "news": {
     "items": [
       {
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+        "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
         "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
-        "url": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Call for 'full review' as pressure grows on Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Tourist plane crashes in Peru, killing 13",
-        "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
+        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
