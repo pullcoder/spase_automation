@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T02:37:42.931Z",
+  "updatedAt": "2026-08-04T02:22:21.846Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-        "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
+        "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-        "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+        "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
-        "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
-        "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tokenomics: Why making AI pay is tricky",
+        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
