@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T02:22:21.846Z",
+  "updatedAt": "2026-08-05T02:21:54.656Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-        "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+        "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-        "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
+        "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US reports first two deaths linked to  'explosive diarrhoea' outbreak",
-        "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
+        "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Tokenomics: Why making AI pay is tricky",
-        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
