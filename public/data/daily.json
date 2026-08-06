@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T02:21:54.656Z",
+  "updatedAt": "2026-08-06T02:24:50.505Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-        "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-        "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
-        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
+        "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-        "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Drone carrying explosives found at German airport, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI or real? BBC analyses viral China disaster videos",
+        "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
