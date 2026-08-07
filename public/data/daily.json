@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T02:24:50.505Z",
+  "updatedAt": "2026-08-07T02:33:45.843Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-        "url": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+        "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Drone carrying explosives found at German airport, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+        "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "AI or real? BBC analyses viral China disaster videos",
-        "url": "https://www.bbc.co.uk/news/videos/ckg9d2egn11o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
