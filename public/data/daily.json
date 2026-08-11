@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T01:38:56.286Z",
+  "updatedAt": "2026-08-11T01:28:27.607Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-        "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Drones spotted over German base days after Leipzig bomb incident",
-        "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Canada flight cancelled after child refuses to wear seat belt",
+        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ancient Roman shipwreck discovered off Sicily coast",
-        "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
