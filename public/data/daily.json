@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T01:28:27.607Z",
+  "updatedAt": "2026-08-12T01:46:11.835Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Canada flight cancelled after child refuses to wear seat belt",
-        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "These seaside apartments were a ghost city - then police say scammers moved in",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-        "url": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tokenomics: Why making AI pay is tricky",
+        "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
