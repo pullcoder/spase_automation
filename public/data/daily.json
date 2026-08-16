@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:06:21.896Z",
+  "updatedAt": "2026-08-16T01:10:33.488Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-        "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Why tech bosses keep sharing their manifestos about AI",
-        "url": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+        "url": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
