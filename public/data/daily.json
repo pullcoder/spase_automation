@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:06:56.677Z",
+  "updatedAt": "2026-08-20T01:06:02.031Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Meta hooked children on Facebook and Instagram, court hears",
-        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Lindsay Clancy begged for help before her children's killings, mother-in-law testifies",
-        "url": "https://www.bbc.co.uk/news/articles/c62emm4yp8go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+        "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "The critical tech staying safe by going underground",
-        "url": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+        "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
