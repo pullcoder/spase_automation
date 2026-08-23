@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:05:57.583Z",
+  "updatedAt": "2026-08-23T01:11:22.740Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
         "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "One killed in sword attack at Swedish school",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+        "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Syria says Israeli strike near Damascus violation of international law",
+        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-        "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Robot horse and rider steal the spotlight at Chinese conference",
+        "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
