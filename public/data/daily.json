@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T01:11:22.740Z",
+  "updatedAt": "2026-08-24T01:09:12.344Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-        "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France links sharp rise in drownings to heatwaves",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Syria says Israeli strike near Damascus violation of international law",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Robot horse and rider steal the spotlight at Chinese conference",
-        "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why students are being paid £2,000 to play computer games",
+        "url": "https://www.bbc.co.uk/news/articles/cz647wlvg1do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
