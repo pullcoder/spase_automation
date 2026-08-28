@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T07:20:38.702Z",
+  "updatedAt": "2026-08-28T09:35:05.156Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-        "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'High risk' of lake breaching and causing second flood, warns China",
+        "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-        "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+        "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "At least 12 dead as wildfires sweep through northern Algeria",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What we know after the big Grand Theft Auto 6 preview",
+        "url": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-        "url": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump signs order to rename Lake Ontario as Lake America",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-        "url": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+        "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
