@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T02:57:17.350Z",
+  "updatedAt": "2026-09-05T02:59:08.217Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
-        "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US investigating if missile hit Iran wedding, Vance says",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-        "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UN votes to adopt new world map to reflect Africa's true size",
+        "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Volkswagen board approves plan to cut another 50,000 jobs",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+        "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Could robots be the future of theme parks?",
-        "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+        "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
