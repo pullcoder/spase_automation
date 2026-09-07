@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T02:58:30.578Z",
+  "updatedAt": "2026-09-07T02:56:20.195Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,28 +10,28 @@
   "news": {
     "items": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+        "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
-        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
-        "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Prince William to attend King Harald's funeral in Norway",
-        "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
