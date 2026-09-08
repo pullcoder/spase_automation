@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T02:56:20.195Z",
+  "updatedAt": "2026-09-08T03:05:58.348Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-        "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+        "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-        "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
