@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T03:05:58.348Z",
+  "updatedAt": "2026-09-09T03:07:31.611Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-        "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
-        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+        "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+        "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
-        "url": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+        "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
