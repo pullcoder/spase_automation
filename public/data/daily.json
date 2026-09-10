@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:07:31.611Z",
+  "updatedAt": "2026-09-10T03:07:46.930Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-        "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Iran referred to UN Security Council for nuclear non-compliance",
+        "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Renoir paintings worth millions stolen in French museum heist",
-        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-        "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
