@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T03:07:46.930Z",
+  "updatedAt": "2026-09-11T03:02:50.624Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+        "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Google picks Finland for its largest single investment in Europe",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Can Trump really pay $5,000 to every American adult?",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+        "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Iran referred to UN Security Council for nuclear non-compliance",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+        "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "More than 20 children killed in DR Congo school fire",
+        "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK needs new laws for AI in healthcare, says watchdog",
-        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Can Europe recharge its battery industry?",
+        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
