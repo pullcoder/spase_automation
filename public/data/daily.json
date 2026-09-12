@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T03:02:50.624Z",
+  "updatedAt": "2026-09-12T03:09:47.839Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Can Trump really pay $5,000 to every American adult?",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-        "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
-        "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Passenger train derails in France leaving at least 44 injured",
+        "url": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "More than 20 children killed in DR Congo school fire",
-        "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Can Europe recharge its battery industry?",
-        "url": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
