@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T03:25:22.994Z",
+  "updatedAt": "2026-09-15T03:26:38.051Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,18 +10,13 @@
   "news": {
     "items": [
       {
+        "title": "China criticises idea it is in 'malicious competition' over AI",
+        "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
@@ -30,13 +25,18 @@
         "source": "BBC World"
       },
       {
-        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+        "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Committee calls for bill to address AI threat to human rights",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thousands demand end to violence in Mexican cartel hotspot",
+        "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Pubs in England and Wales to allow digital ID apps to prove age",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
