@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T03:22:33.872Z",
+  "updatedAt": "2026-09-17T03:28:23.995Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Denmark says Russian warship fired flares at military helicopter",
-        "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Snapchat willing to enact time limits for teens, boss tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "What weapon could the US have put into space?",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Photos show widespread damage at US sites from Iranian attacks",
+        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "South African president vows justice as more women's bodies found near Johannesburg",
-        "url": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-        "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+        "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
+        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
