@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T03:28:23.995Z",
+  "updatedAt": "2026-09-18T03:14:12.705Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Canada welcomes EU proposal to become 'associate member'",
+        "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Snapchat willing to enact time limits for teens, boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ninth woman's body found as South African police investigate string of deaths",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-        "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+        "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI reveals six more safety issues and unveils plan to disclose incidents",
-        "url": "https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "The virtual worlds where robots are trained",
+        "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
