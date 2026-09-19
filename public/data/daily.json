@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T03:14:12.705Z",
+  "updatedAt": "2026-09-19T03:10:36.882Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Canada welcomes EU proposal to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ninth woman's body found as South African police investigate string of deaths",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+        "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says he is banning CNN and Politico from White House",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
-        "url": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+        "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-        "url": "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "The virtual worlds where robots are trained",
-        "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Would Australians support a smart glasses ban?",
+        "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
