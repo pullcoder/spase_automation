@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T03:10:36.882Z",
+  "updatedAt": "2026-09-20T03:27:23.206Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-        "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+        "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-        "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Would Australians support a smart glasses ban?",
-        "url": "https://www.bbc.co.uk/news/videos/cm9w4nenzv4no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Not all AI workers think the tech could kill everyone",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
