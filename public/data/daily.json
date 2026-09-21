@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T03:27:23.206Z",
+  "updatedAt": "2026-09-21T03:22:22.291Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,28 +10,28 @@
   "news": {
     "items": [
       {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
         "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says triumphal arch will be military complex with drones and snipers",
+        "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-        "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
