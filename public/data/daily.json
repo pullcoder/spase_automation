@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T03:11:38.198Z",
+  "updatedAt": "2026-09-25T03:28:53.403Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Iran's president tells Trump it will never 'bend the knee'",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "X-planes: Are they needed in the new era of drones?",
+        "url": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
