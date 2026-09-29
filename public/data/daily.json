@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T03:42:24.034Z",
+  "updatedAt": "2026-09-29T04:17:15.783Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Inside Yemen's front-line city as Houthis battle for control",
-        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Embattled Serbian president resigns, paving way for early elections",
-        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Evicted Spanish pensioner can move back home, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Two bodies found after avalanche hits Himalayan climbing group",
-        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Four killed in helicopter crash near Montreal",
-        "url": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
