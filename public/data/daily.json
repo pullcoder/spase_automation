@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T04:17:15.783Z",
+  "updatedAt": "2026-09-30T04:01:13.189Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Evicted Spanish pensioner can move back home, lawyer says",
-        "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Chinese AI tool told researchers how to make bioweapons",
+        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "New York Times executive fatally shot allegedly by elderly in-laws",
-        "url": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "South Africa to clean up high-risk areas after 12 women killed",
+        "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
-        "url": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
+        "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI scraps rollout of new model over safety concerns",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
