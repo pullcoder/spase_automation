@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T04:01:13.189Z",
+  "updatedAt": "2026-10-01T04:12:48.459Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What we know about stabbing on Flydubai flight to Israel",
+        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Chinese AI tool told researchers how to make bioweapons",
-        "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "South Africa to clean up high-risk areas after 12 women killed",
-        "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
-        "url": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI boom could trigger market shocks, Bank of England boss warns",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
