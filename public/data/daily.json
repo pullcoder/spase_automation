@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T04:12:48.459Z",
+  "updatedAt": "2026-10-02T04:06:12.160Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "What we know about stabbing on Flydubai flight to Israel",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
-        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "AI boom could trigger market shocks, Bank of England boss warns",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "OpenAI fires workers for mishandling 'sensitive information'",
+        "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
