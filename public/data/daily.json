@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T04:06:12.160Z",
+  "updatedAt": "2026-10-03T03:50:00.135Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,32 +10,32 @@
   "news": {
     "items": [
       {
-        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-        "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Riot police clash with students as education protests rage in France",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+        "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "OpenAI fires workers for mishandling 'sensitive information'",
+        "title": "OpenAI fires workers for 'mishandling sensitive information'",
         "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
