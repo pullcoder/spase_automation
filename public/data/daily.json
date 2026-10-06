@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T04:06:16.158Z",
+  "updatedAt": "2026-10-06T04:55:14.229Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-        "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+        "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-        "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
