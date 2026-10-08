@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T04:21:51.880Z",
+  "updatedAt": "2026-10-08T04:33:13.869Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Tear gas in Paris and Marseille as school protests grow across France",
-        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Former German spy chief arrested for espionage and treason",
-        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France's school protests: what lies behind the anger",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-        "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
+        "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Former Australian bishop jailed for sexually abusing young men",
-        "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israelis demand accountability over 7 October failures three years after attacks",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-        "url": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI chip boom pushes Samsung profits to record $80bn",
+        "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
