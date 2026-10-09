@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T04:33:13.869Z",
+  "updatedAt": "2026-10-09T04:37:16.760Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+        "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "France's school protests: what lies behind the anger",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+        "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump wants a new Camp David-like retreat at his Florida golf club",
-        "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Israelis demand accountability over 7 October failures three years after attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Adidas sues Australian label White Fox over four stripes design",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "AI chip boom pushes Samsung profits to record $80bn",
-        "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nvidia-backed AI data centre firm scraps mega listing due to market volatility",
+        "url": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
