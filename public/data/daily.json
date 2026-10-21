@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T03:26:30.153Z",
+  "updatedAt": "2026-10-21T03:20:55.589Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France is divided over who to blame for and what to learn from weekend riots",
+        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-        "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Man charged with attack on Australia MP to face court",
+        "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Five ways El Niño is affecting the weather around the world",
-        "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
