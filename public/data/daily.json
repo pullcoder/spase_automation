@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T03:14:40.971Z",
+  "updatedAt": "2026-10-26T03:15:40.905Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine says Starlink connection 'now stable' after network limits",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Deeply divided Israel braces for pivotal election",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-        "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-        "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+        "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+        "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
