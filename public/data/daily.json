@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T04:25:47.859Z",
+  "updatedAt": "2026-10-31T04:05:16.186Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-        "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-        "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
-        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
