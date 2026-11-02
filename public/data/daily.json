@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T04:27:20.843Z",
+  "updatedAt": "2026-11-02T04:29:02.992Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Shops looted as German cost of living protests turn violent",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "India's opposition set to hold mega rally seeking election chief's resignation",
-        "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-        "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Binance users withdraw $3.6bn after record crypto hack",
+        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
