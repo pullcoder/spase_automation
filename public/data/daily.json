@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T05:23:54.936Z",
+  "updatedAt": "2026-11-04T04:52:29.256Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US strikes Iran ahead of midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "South Carolina elects Democratic senator for first time in almost three decades",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
-        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+        "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "North Korea denies being behind record $6.3bn Binance hack",
-        "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Graduates are managing AI - but are they learning much else?",
+        "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
