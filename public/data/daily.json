@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T04:52:29.256Z",
+  "updatedAt": "2026-11-05T05:09:53.501Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "South Carolina elects Democratic senator for first time in almost three decades",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Democratic rising star Ossoff projected to hold Georgia seat",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What Democrats can and can't do with their new power after taking Congress",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Spanish transport minister resigns days after deadly train crash",
-        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Seven flights across Europe targeted by suspected bomb threats",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-        "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+        "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Graduates are managing AI - but are they learning much else?",
-        "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
