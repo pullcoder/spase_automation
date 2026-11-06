@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T05:09:53.501Z",
+  "updatedAt": "2026-11-06T05:09:30.772Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "What Democrats can and can't do with their new power after taking Congress",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+        "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-        "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+        "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-        "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
