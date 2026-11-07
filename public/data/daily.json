@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:09:30.772Z",
+  "updatedAt": "2026-11-07T04:41:53.405Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump signs order preventing future presidents from changing Oval Office",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Four midterms takeaways for 2028 White House race",
+        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Two dead after bus crashes in France, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-        "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New wave of bomb threats hit European airlines",
+        "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
