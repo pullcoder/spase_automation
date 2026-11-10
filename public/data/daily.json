@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T04:42:09.646Z",
+  "updatedAt": "2026-11-10T05:57:39.938Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+        "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
