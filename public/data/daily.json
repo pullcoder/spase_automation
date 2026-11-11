@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T05:57:39.938Z",
+  "updatedAt": "2026-11-11T04:44:58.153Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Trump says more US attacks on Iran 'highly unlikely'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-        "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Robot vessels take on the dangerous work of mine hunting",
+        "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
