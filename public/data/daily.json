@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:57:35.829Z",
+  "updatedAt": "2026-11-15T04:51:04.583Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-        "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Setback for SpaceX Starship rocket's double-catch test",
-        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Italy fines Meta €805m over accessing users' photos",
+        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Italy fines Meta €805m over accessing users' photos",
+        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
