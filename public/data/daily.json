@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T04:51:04.583Z",
+  "updatedAt": "2026-11-16T04:47:10.345Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+        "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+        "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Investors sue chip giant Intel after 29% stock plunge",
+        "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
