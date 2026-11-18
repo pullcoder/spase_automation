@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T06:34:41.838Z",
+  "updatedAt": "2026-11-18T05:55:54.059Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-        "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How the attack on Crimean Bridge unfolded",
+        "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
-        "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "California sues OpenAI over Hugging Face attack",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Security flaw found in Java, world's third-largest programming language",
+        "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
