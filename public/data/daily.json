@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T05:55:54.059Z",
+  "updatedAt": "2026-11-19T05:56:04.439Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "How the attack on Crimean Bridge unfolded",
-        "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-        "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-        "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+        "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Security flaw found in Java, world's third-largest programming language",
-        "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
