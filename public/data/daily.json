@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T05:07:20.459Z",
+  "updatedAt": "2026-11-23T05:48:55.988Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Russia-bound ship attacked in Gulf of Finland",
-        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&amp;at_campaign=rss",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "FBI reportedly investigating apparent hack of its criminal database",
-        "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Can AI really help spot Black Friday deals? We put it to the test",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
