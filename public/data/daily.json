@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T07:01:12.114Z",
+  "updatedAt": "2026-11-26T06:53:34.395Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US announces new tariffs on host of countries including China",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US attorney general dodges questions about Nvidia investigation",
-        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-        "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Has global jihadism failed, or is it simply changing shape?",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "US attorney general dodges questions about Nvidia investigation",
-        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+        "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+        "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
