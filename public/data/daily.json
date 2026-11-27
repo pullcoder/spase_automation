@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T06:53:34.395Z",
+  "updatedAt": "2026-11-27T06:45:59.093Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US announces new tariffs on host of countries including China",
-        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+        "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Has global jihadism failed, or is it simply changing shape?",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&amp;at_campaign=rss",
+        "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+        "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-        "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&amp;at_campaign=rss",
+        "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-        "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+        "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
