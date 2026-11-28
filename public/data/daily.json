@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:45:59.093Z",
+  "updatedAt": "2026-11-28T06:20:01.603Z",
   "apod": {
     "error": {
       "code": "API_KEY_MISSING",
@@ -10,33 +10,33 @@
   "news": {
     "items": [
       {
-        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Eight killed in Peruvian military helicopter crash",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&amp;at_campaign=rss",
+        "source": "BBC World"
+      },
+      {
+        "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
         "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC World"
       },
       {
-        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-        "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-        "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&amp;at_campaign=rss",
-        "source": "BBC World"
-      },
-      {
-        "title": "Why is there a shortage of 'wizard' elevator mechanics?",
-        "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&amp;at_campaign=rss",
+        "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&amp;at_campaign=rss",
         "source": "BBC Tech"
       }
     ],
